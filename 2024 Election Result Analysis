@@ -1,0 +1,9 @@
+## 2024 Election Result Analysis
+
+This project involves an in-depth analysis of the 2024 Indian General Election results using SQL.
+The analysis focused on deriving insights at constituency, state, and national levels. 
+Key objectives included determining the total number of parliamentary constituencies (543), analyzing the state-wise distribution of available seats, 
+and assessing the performance of major political alliances, such as the National Democratic Alliance (NDA) and Indian National Developmental Inclusive Alliance (INDIA) .
+The project utilized advanced SQL techniques, including joins, aggregations, and conditional logic, to process and analyze data from multiple tables, such as constituency details, 
+election results, party-wise data, and state information. 
+The results provided valuable insights into election outcomes, enabling a detailed understanding of the electoral landscape and alliance performances across India.
